@@ -1,0 +1,126 @@
+{
+  "property": {
+    "en": {
+      "issue_type": "Property Rights",
+      "advice": "You have legal rights as a tenant. Your landlord cannot threaten or evict you without proper legal notice.",
+      "next_steps": [
+        "Document all threats and communication with your landlord",
+        "Check your rental agreement for terms and conditions",
+        "Contact local legal aid center for assistance",
+        "File a complaint with local authorities if threats continue"
+      ],
+      "emergency_contacts": [
+        {"name": "Legal Aid Helpline", "number": "1800-345-4224"},
+        {"name": "Women Helpline", "number": "181"}
+      ]
+    },
+    "hi": {
+      "issue_type": "संपत्ति अधिकार",
+      "advice": "आपके पास किरायेदार के रूप में कानूनी अधिकार हैं। आपका मकान मालिक बिना उचित कानूनी नोटिस के आपको धमकी या बेदखल नहीं कर सकता।",
+      "next_steps": [
+        "अपने मकान मालिक के साथ सभी धमकियों और संवाद का दस्तावेजीकरण करें",
+        "नियम और शर्तों के लिए अपना किराया समझौता देखें",
+        "सहायता के लिए स्थानीय कानूनी सहायता केंद्र से संपर्क करें",
+        "यदि धमकियां जारी रहती हैं तो स्थानीय अधिकारियों के पास शिकायत दर्ज करें"
+      ],
+      "emergency_contacts": [
+        {"name": "कानूनी सहायता हेल्पलाइन", "number": "1800-345-4224"},
+        {"name": "महिला हेल्पलाइन", "number": "181"}
+      ]
+    }
+  },
+  "domestic_violence": {
+    "en": {
+      "issue_type": "Domestic Violence",
+      "advice": "Domestic violence is a serious crime. You have the right to safety and legal protection. Immediate help is available.",
+      "next_steps": [
+        "Contact police immediately if in immediate danger (call 100)",
+        "Document injuries and incidents with photos/medical records",
+        "Reach out to women's helpline for support and guidance",
+        "File an FIR at the nearest police station",
+        "Contact legal aid for filing protection order"
+      ],
+      "emergency_contacts": [
+        {"name": "Emergency Police", "number": "100"},
+        {"name": "Women Helpline", "number": "181"},
+        {"name": "Domestic Violence Helpline", "number": "1091"}
+      ]
+    },
+    "hi": {
+      "issue_type": "घरेलू हिंसा",
+      "advice": "घरेलू हिंसा एक गंभीर अपराध है। आपको सुरक्षा और कानूनी सुरक्षा का अधिकार है। तत्काल सहायता उपलब्ध है।",
+      "next_steps": [
+        "तत्काल खतरे में होने पर तुरंत पुलिस से संपर्क करें (100 पर कॉल करें)",
+        "फोटो/मेडिकल रिकॉर्ड के साथ चोटों और घटनाओं का दस्तावेजीकरण करें",
+        "समर्थन और मार्गदर्शन के लिए महिला हेल्पलाइन से संपर्क करें",
+        "निकटतम पुलिस स्टेशन में एफआईआर दर्ज करें",
+        "सुरक्षा आदेश दाखिल करने के लिए कानूनी सहायता से संपर्क करें"
+      ],
+      "emergency_contacts": [
+        {"name": "आपातकालीन पुलिस", "number": "100"},
+        {"name": "महिला हेल्पलाइन", "number": "181"},
+        {"name": "घरेलू हिंसा हेल्पलाइन", "number": "1091"}
+      ]
+    }
+  },
+  "labor": {
+    "en": {
+      "issue_type": "Labor Rights",
+      "advice": "You have rights as a worker. Non-payment of wages is illegal and you can take legal action against your employer.",
+      "next_steps": [
+        "Gather all employment documents and salary records",
+        "Send a written notice to your employer demanding payment",
+        "File a complaint with Labor Department",
+        "Contact legal aid for assistance with labor court proceedings"
+      ],
+      "emergency_contacts": [
+        {"name": "Labor Helpline", "number": "1800-11-8001"},
+        {"name": "Legal Aid Helpline", "number": "1800-345-4224"}
+      ]
+    },
+    "hi": {
+      "issue_type": "श्रमिक अधिकार",
+      "advice": "आपके पास एक कामगार के रूप में अधिकार हैं। मजदूरी का भुगतान न करना अवैध है और आप अपने नियोक्ता के खिलाफ कानूनी कार्रवाई कर सकते हैं।",
+      "next_steps": [
+        "सभी रोजगार दस्तावेज और वेतन रिकॉर्ड एकत्र करें",
+        "भुगतान की मांग करते हुए अपने नियोक्ता को लिखित नोटिस भेजें",
+        "श्रम विभाग के पास शिकायत दर्ज करें",
+        "श्रम न्यायालय की कार्यवाही में सहायता के लिए कानूनी सहायता से संपर्क करें"
+      ],
+      "emergency_contacts": [
+        {"name": "श्रम हेल्पलाइन", "number": "1800-11-8001"},
+        {"name": "कानूनी सहायता हेल्पलाइन", "number": "1800-345-4224"}
+      ]
+    }
+  },
+  "general": {
+    "en": {
+      "issue_type": "General Legal Query",
+      "advice": "For general legal matters, it's best to consult with a legal expert who can provide specific advice based on your situation.",
+      "next_steps": [
+        "Contact your nearest legal aid center",
+        "Gather all relevant documents related to your case",
+        "Seek consultation with a qualified lawyer",
+        "Check government legal aid schemes you may be eligible for"
+      ],
+      "emergency_contacts": [
+        {"name": "Legal Aid Helpline", "number": "1800-345-4224"},
+        {"name": "Citizen Helpline", "number": "14546"}
+      ]
+    },
+    "hi": {
+      "issue_type": "सामान्य कानूनी प्रश्न",
+      "advice": "सामान्य कानूनी मामलों के लिए, एक कानूनी विशेषज्ञ से सलाह लेना सबसे अच्छा है जो आपकी स्थिति के आधार पर विशिष्ट सलाह दे सकता है।",
+      "next_steps": [
+        "अपने निकटतम कानूनी सहायता केंद्र से संपर्क करें",
+        "अपने मामले से संबंधित सभी प्रासंगिक दस्तावेज एकत्र करें",
+        "एक योग्य वकील से सलाह लें",
+        "सरकारी कानूनी सहायता योजनाओं की जांच करें जिसके लिए आप पात्र हो सकते हैं"
+      ],
+      "emergency_contacts": [
+        {"name": "कानूनी सहायता हेल्पलाइन", "number": "1800-345-4224"},
+        {"name": "नागरिक हेल्पलाइन", "number": "14546"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "emergency": [
+    {
+      "name": "Police Emergency",
+      "number": "100",
+      "description": "For immediate police assistance",
+      "category": "emergency"
+    },
+    {
+      "name": "Women Helpline",
+      "number": "181",
+      "description": "24x7 helpline for women in distress",
+      "category": "women"
+    },
+    {
+      "name": "Domestic Violence Helpline",
+      "number": "1091",
+      "description": "Dedicated helpline for domestic violence cases",
+      "category": "women"
+    },
+    {
+      "name": "Child Helpline",
+      "number": "1098",
+      "description": "Help for children in need of care and protection",
+      "category": "child"
+    }
+  ],
+  "legal_aid": [
+    {
+      "name": "National Legal Services Authority",
+      "number": "1800-345-4224",
+      "description": "Free legal aid and consultation",
+      "category": "legal"
+    },
+    {
+      "name": "Legal Aid Helpline",
+      "number": "15100",
+      "description": "Legal assistance and guidance",
+      "category": "legal"
+    },
+    {
+      "name": "Consumer Helpline",
+      "number": "1915",
+      "description": "Consumer rights and complaints",
+      "category": "consumer"
+    }
+  ],
+  "specialized": [
+    {
+      "name": "Labor Helpline",
+      "number": "1800-11-8001",
+      "description": "Labor rights and workplace issues",
+      "category": "labor"
+    },
+    {
+      "name": "Senior Citizen Helpline",
+      "number": "14567",
+      "description": "Help for elderly citizens",
+      "category": "senior"
+    },
+    {
+      "name": "Anti-Corruption Helpline",
+      "number": "1031",
+      "description": "Report corruption and malpractices",
+      "category": "corruption"
+    }
+  ]
+}

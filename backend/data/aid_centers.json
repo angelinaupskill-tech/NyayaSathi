@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Delhi State Legal Services Authority",
+    "address": "High Court of Delhi, Sher Shah Road, New Delhi - 110003",
+    "phone": "011-23389600",
+    "services": ["Free Legal Aid", "Legal Literacy", "Mediation", "Lok Adalat"],
+    "latitude": 28.6358,
+    "longitude": 77.2245,
+    "district": "New Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Mumbai Legal Aid Center",
+    "address": "Fort, Mumbai, Maharashtra - 400001",
+    "phone": "022-22621985",
+    "services": ["Free Legal Consultation", "Women Rights", "Property Disputes"],
+    "latitude": 18.9322,
+    "longitude": 72.8264,
+    "district": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Bangalore Legal Aid Society",
+    "address": "Vidhana Soudha, Bangalore, Karnataka - 560001",
+    "phone": "080-22250180",
+    "services": ["Labor Rights", "Family Law", "Consumer Protection"],
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "district": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Chennai Legal Services",
+    "address": "High Court Campus, Chennai, Tamil Nadu - 600104",
+    "phone": "044-28110395",
+    "services": ["Domestic Violence", "Property Rights", "Criminal Law"],
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "district": "Chennai"
+  },
+  {
+    "id": 5,
+    "name": "Kolkata Legal Aid Committee",
+    "address": "Calcutta High Court, Kolkata, West Bengal - 700001",
+    "phone": "033-22480311",
+    "services": ["Free Legal Aid", "Women Helpline", "Child Rights"],
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "district": "Kolkata"
+  },
+  {
+    "id": 6,
+    "name": "Rural Legal Aid Center - Uttar Pradesh",
+    "address": "District Court Complex, Lucknow, UP - 226001",
+    "phone": "0522-2228456",
+    "services": ["Land Disputes", "Agricultural Law", "Rural Rights"],
+    "latitude": 26.8467,
+    "longitude": 80.9462,
+    "district": "Lucknow"
+  },
+  {
+    "id": 7,
+    "name": "Rajasthan State Legal Aid",
+    "address": "High Court of Rajasthan, Jodhpur - 342001",
+    "phone": "0291-2547891",
+    "services": ["Water Rights", "Land Records", "Tribal Law"],
+    "latitude": 26.2389,
+    "longitude": 73.0243,
+    "district": "Jodhpur"
+  },
+  {
+    "id": 8,
+    "name": "Punjab Legal Services Authority",
+    "address": "High Court of Punjab, Chandigarh - 160019",
+    "phone": "0172-2740258",
+    "services": ["Agricultural Disputes", "Labor Law", "Family Mediation"],
+    "latitude": 30.7333,
+    "longitude": 76.7794,
+    "district": "Chandigarh"
+  }
+]
