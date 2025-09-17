@@ -122,7 +122,7 @@ The application uses custom-curated datasets stored in JSON format:
 
 ## 📡 API Endpoints
 
-### Core Endpoints
+y### Core Endpoints
 ```bash
 # Health check
 GET /health
